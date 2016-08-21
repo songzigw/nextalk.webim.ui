@@ -1,2 +1,2 @@
-# nextalk.webim.ui
-NexTalk web IM UI
+# songm.webim.ui
+Songm Web IM UI
