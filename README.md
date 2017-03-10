@@ -1,2 +1,2 @@
-# songm.webim.ui
+# songmim-webim-ui
 Songm Web IM UI
